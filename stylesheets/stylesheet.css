@@ -119,7 +119,7 @@ aside#sidebar {
   min-height: 504px;
   float: right;
   background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
-  font-size: 12px;
+  font-size: 14px;
   line-height: 1.3;
 }
 
@@ -142,6 +142,13 @@ a.button {
   padding-top: 22px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
 }
+a.click {
+  line-height: 1.2;
+  font-size: 18px;
+  color: #fff;
+  padding-left: 10px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+}
 a.button small {
   display: block;
   font-size: 11px;
@@ -151,6 +158,11 @@ header a.button {
   right: 0;
   top: 0;
   background: transparent url(../images/github-button.png) 0 0 no-repeat;
+}
+#link {
+  position: absolute;
+  right: 0;
+  top: 110px;
 }
 aside a.button {
   width: 138px;
