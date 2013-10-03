@@ -3,7 +3,7 @@ layout: default
 title: Research Experience
 ---
 
-<h1> Skills </h1>
+<h1> Work Experience </h1>
 *****************
 ###Programming Tools
 - VC++, Jekyll, MS Server, Dreamweaver, Xcode, WinSocket, IIS, Tomcat, Eclipse
