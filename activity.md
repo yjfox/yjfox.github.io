@@ -21,4 +21,4 @@ title: Activity
  
  
 ###Sep.2009 - Sep.2011
-- <strong>Team leader</strong> of Shanghai Ocean University Luo - zhaoyao Funds project team
+- <strong>Team leader</strong> of Shanghai Ocean University [Luo - zhaoyao Funds](http://baike.baidu.com/view/316221.htm) project team
