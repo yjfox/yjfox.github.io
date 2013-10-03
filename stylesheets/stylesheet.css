@@ -291,6 +291,23 @@ form {
   color: #474747;
 } 
 
+/*
+brief is another style of h4, withouth strong font
+*/
+
+#brief {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-size: 17px;
+  color: #474747;
+  text-align: ;
+} 
+#brief:before {
+  content: "////";
+  color: #9ddcff;
+  padding-right: 0.3em;
+  margin-left: -2.8em;
+}
+
 h4:before {
   content: "////";
   color: #9ddcff;

@@ -10,12 +10,12 @@ title: yjfox Blog
           <h3>
 <a name="welcome-to-github-pages" class="anchor" href="{{ post.url }}"><span class="octicon octicon-link"></span>{{  post.title }}</a></h3>
 
-<h5>label: <label>{{  post.label  }}</label>
-<label id="time">Post on: {{ post.time }}</label></h5>
+<h5><strong>label: <label>{{  post.label  }}</label>
+<label id="time">Post on: {{ post.time }}</label></strong></h5>
+<br />
 
-
-<p><h4>{{  post.brief  }}</h4></p>
-
+<p id="brief">{{  post.brief  }}</p>
+<br />
 {% endfor %}
   
  
