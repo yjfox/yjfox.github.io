@@ -114,12 +114,13 @@ header h2 {
 }
 
 aside#sidebar {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
   width: 200px;
   padding-left: 0px;
   min-height: 504px;
   float: right;
   background: transparent url(../images/sidebar-bg.jpg) 0 0 no-repeat;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.3;
 }
 
