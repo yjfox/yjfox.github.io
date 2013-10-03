@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Configuration of PHP+Apache+MySQL+MSSQL+Neo4j
-label: phpAdmin, mysql, mssql, neo4j, configuration, installation
+label: phpAdmin, mysql, mssql, neo4j
 time: 2013-10-02
 brief: Instruction of installation and configuration of a complicated server which support PHP+Apache+MySQL+MSSQL+Neo4j and also JAVA.
 ---
