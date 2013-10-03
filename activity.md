@@ -6,7 +6,7 @@ title: Activity
 <h1>Activity</h1>
 **************
 ###Sep.2013 - Present
-- <strong>Business Manager</strong> of ISO (International Students Organization) - University of Pittsburgh
+- <strong>Business Manager</strong> of [ISO (International Students Organization)](http://www.ischool.pitt.edu/bsis/about/student-organizations.php) - University of Pittsburgh
 
 
 ###July.2011 - Aug.2012
