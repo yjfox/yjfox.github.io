@@ -291,23 +291,6 @@ form {
   color: #474747;
 } 
 
-/*
-brief is another style of h4, withouth strong font
-*/
-
-#brief {
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
-  font-size: 17px;
-  color: #474747;
-  text-align: ;
-} 
-#brief:before {
-  content: "////";
-  color: #9ddcff;
-  padding-right: 0.3em;
-  margin-left: -2.8em;
-}
-
 h4:before {
   content: "////";
   color: #9ddcff;
@@ -351,8 +334,16 @@ p a {
   font-weight: 400;
 }
 
+#brief {
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  font-size: 17px;
+  border-left: 10px solid #e9e9e9;
+  margin-bottom: 20px;
+  padding: 0 0 0 30px;
+}
+
 blockquote {
-  font-size: 1.6em;
+  font-size: 1.2em;
   border-left: 10px solid #e9e9e9;
   margin-bottom: 20px;
   padding: 0 0 0 30px;
