@@ -3,7 +3,7 @@ layout: default
 title: Research Experience
 ---
 
-<h1>About Me</h1>
+<h1>About Me - Jun Yin</h1>
 **************
 ###Master of Information Science  
 - Specialize in Database and Web Systems  
