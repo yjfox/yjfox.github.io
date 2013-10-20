@@ -6,7 +6,7 @@ title: Research Experience
 <h1> Skills </h1>
 *****************
 ###Programming Tools
-- VC++, Jekyll, MS Server, Dreamweaver, Xcode, WinSocket, IIS, Tomcat, Eclipse
+- VS, Jekyll, MS Server, IIS, Apache, Tomcat, Xcode, WinSocket, Maven, Eclipse, Netbeans
  
  
 ###Languages**
@@ -14,4 +14,4 @@ title: Research Experience
  
  
 ###Operation system
-- Unix/Linux ( Ubuntu, RedHat ), MacOS, Windows
+- Unix/Linux (Ubuntu, RedHat), MacOS, Windows
