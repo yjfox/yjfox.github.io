@@ -4,6 +4,7 @@ title: Develop Java servlet on Netbeans
 label: JAVA servlet, Netbeans
 time: 2013-11-09
 brief: An useful instruction from NetBeans' website
+---
 
 #{{page.title}}
 > {{page.brief}}
