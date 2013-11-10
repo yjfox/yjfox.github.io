@@ -11,7 +11,9 @@ brief: An useful instruction from NetBeans' website
 **************
 
 <https://netbeans.org/kb/docs/web/quickstart-webapps.html>  
+
 <https://netbeans.org/kb/docs/ide/java-db.html#configuring>  
+
 + This page includes almost details. It is helpful if you just start to learn how to develop and deploy a web servlet in NetBeans.  
 
 end.
