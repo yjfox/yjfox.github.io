@@ -1,9 +1,9 @@
 ---
 layout: default
-title: JS File_get_contents
+title: JS file_get_contents
 label: Javascript, php.js
 time: 2013-11-21
-brief: PHP has a function called "file get contents", now JS also has a similar one
+brief: PHP has a function called "file_get_contents()", now JS also has a similar one
 ---
 
 #{{page.title}}
