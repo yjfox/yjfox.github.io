@@ -19,7 +19,7 @@ title: Research Experience
 
 ###Project on Kaggle.com - Accelerometer Biometric Competition
 #####10/2013 – 12/2013  
-Introduction: <http://www.kaggle.com/c/accelerometer-biometric-competition>    
+- Introduction: <http://www.kaggle.com/c/accelerometer-biometric-competition> 
 - Utilized Python and Centroid Algorithm  
 - We have three team members, and finally got 80.7% accuracy
  
