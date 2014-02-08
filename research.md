@@ -54,14 +54,3 @@ title: Research Experience
 - Utilized IIS, ASP, HTML, JavaScript, MSSQL
 - Sponsored by school funding
 
-
- 
-
- 
-=======
-#####09/2010 ~ 03/2011  
-- Shanghai Ocean University
-- Developed an online student record keeping system that kept track of user information, schedules, grades, background information, scholarships, and absence information using SERVER2008, ASP, IIS, HTML, VBScript, JavaScript, and ADO
-  
- 
->>>>>>> 327db548c320cbf2b69b4d13f8a0fb51442b596a
