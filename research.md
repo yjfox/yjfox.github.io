@@ -25,8 +25,8 @@ title: Research Experience
 
 ###Project on Kaggle.com - Accelerometer Biometric Competition
 #####10/2013 – 12/2013  
-Introduction: <http://www.kaggle.com/c/accelerometer-biometric-competition>    
-- Utilized Python and Centroid Algorithm
+- Introduction: <http://www.kaggle.com/c/accelerometer-biometric-competition> 
+- Utilized Python and Centroid Algorithm  
 - We have three team members, and finally got 80.7% accuracy
  
 ###Speech Application – Course Project of Interactive System Design
@@ -47,6 +47,7 @@ Introduction: <http://www.kaggle.com/c/accelerometer-biometric-competition>
 - Utilized Android SDK, Eclipse, VS(C++), Socket(communication network between PC and Android)
  
 ###Student Information Management System Application Development
+<<<<<<< HEAD
 ####Shanghai Ocean University
 #####09/2010 - 03/2011 
 - Developed an online record keeping system that kept track of user information, schedules, grades, background information, scholarships, and absence information 
@@ -57,3 +58,10 @@ Introduction: <http://www.kaggle.com/c/accelerometer-biometric-competition>
  
 
  
+=======
+#####09/2010 ~ 03/2011  
+- Shanghai Ocean University
+- Developed an online student record keeping system that kept track of user information, schedules, grades, background information, scholarships, and absence information using SERVER2008, ASP, IIS, HTML, VBScript, JavaScript, and ADO
+  
+ 
+>>>>>>> 327db548c320cbf2b69b4d13f8a0fb51442b596a
