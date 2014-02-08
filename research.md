@@ -47,7 +47,6 @@ title: Research Experience
 - Utilized Android SDK, Eclipse, VS(C++), Socket(communication network between PC and Android)
  
 ###Student Information Management System Application Development
-<<<<<<< HEAD
 ####Shanghai Ocean University
 #####09/2010 - 03/2011 
 - Developed an online record keeping system that kept track of user information, schedules, grades, background information, scholarships, and absence information 
