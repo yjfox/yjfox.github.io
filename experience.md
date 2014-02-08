@@ -6,15 +6,14 @@ title: Research Experience
 <h1> Work Experience </h1>
 *****************
 
-###Operations Department Intern 
+###Internship at Lenovo (Main Responsibility: Programming)
 ####Lenovo, Shanghai Branch
 #####03/2013 ~ 07/2013  
-- Took charge of running the interior ERP system
-- Improved and increased the efficiency within the interior ERP system
+Lenovo, Shanghai Branch
+- Personally developed a plug-in program that significantly improves the efficiency of the interior Mobile App Verification system, which was awarded by Department Leader
 - Worked with a team of 8 in developing a satisfactory customer service base
 - Responsible for technical affairs within the customer service system
-- Personally developed a program that significantly improved the efficiency of the ERP system
-- Worked with Python and AutoIt3  
+- Worked with JAVA, Python and AutoIt3
 
 ###Network Specialist Intern
 ####Mengyu Tech. Inc
@@ -22,3 +21,9 @@ title: Research Experience
 - Maintained over 10+ business accounts
 - Set up LAN services for commercial business customers
 - Tackled operation system problems encountered by customers
+
+###Business Manager of ISO (International Student Organization)
+####University of Pittsburgh
+#####10/2013 ~ 04/2014
+- The purpose of this organization is to provide a forum for the international students at iSchool to express and exchange views, ideas and opinions. To promote fellowship among the international students. - Responsible for technical issues (website)
+- Responsible for financial budget, organizing group activities and events

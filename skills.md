@@ -6,11 +6,11 @@ title: Research Experience
 <h1> Skills </h1>
 *****************
 ###Programming Tools
-- VS, Jekyll, MS Server, IIS, Apache, Tomcat, Xcode, WinSocket, Maven, Eclipse, Netbeans
+- C, C++, C#, Java, python, JavaScript, JQuery, PHP, ASP, XML, HTML, MySQL, MSSQL, Oracle, Neo4j, MongoDB, Markdown
  
  
 ###Languages**
-- C, C++, Java, python, JavaScript, ASP, VBScript, XML, HTML, markdown, MySQL, mongoDB
+- Eclipse, Netbeans, Android, Apache, Tomcat, VS, MS Server, IIS, Xcode, WinSocket, Maven, WEKA
  
  
 ###Operation system

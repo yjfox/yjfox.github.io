@@ -7,7 +7,7 @@ title: Research Experience
 **************
 ###ATHLETICS
 - Basketball, Football, Soccer, F1, Jogging
-- Fitness ( you can find me in gym every single day )
+- Fitness
 
  
 ###MUSIC
