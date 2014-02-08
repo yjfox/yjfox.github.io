@@ -25,5 +25,6 @@ Lenovo, Shanghai Branch
 ###Business Manager of ISO (International Student Organization)
 ####University of Pittsburgh
 #####10/2013 ~ 04/2014
-- The purpose of this organization is to provide a forum for the international students at iSchool to express and exchange views, ideas and opinions. To promote fellowship among the international students. - Responsible for technical issues (website)
+- The purpose of this organization is to provide a forum for the international students at iSchool to express and exchange views, ideas and opinions. To promote fellowship among the international students.  
+ - Responsible for technical issues (website)
 - Responsible for financial budget, organizing group activities and events
