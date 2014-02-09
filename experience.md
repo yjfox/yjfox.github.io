@@ -6,11 +6,11 @@ title: Research Experience
 <h1> Work Experience </h1>
 *****************
 
-###Internship at Lenovo (Main Responsibility: Programming)
-####Lenovo, Shanghai Branch
+###Internship at Lenovo (Main Responsibility: Programming)  
+####Lenovo, Shanghai Branch  
 #####03/2013 ~ 07/2013  
 Lenovo, Shanghai Branch  
-- Personally developed a plug-in program that significantly improves the efficiency of the interior Mobile App Verification system, which was awarded by Department Leader  
+- Personally developed a plug-in program that significantly improves the efficiency of the interior Mobile App Verification system, which was awarded by Department Leader    
 - Worked with a team of 8 in developing a satisfactory customer service base  
 - Responsible for technical affairs within the customer service system  
 - Worked with JAVA, Python and AutoIt3  
