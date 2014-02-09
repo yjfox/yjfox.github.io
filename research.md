@@ -23,7 +23,8 @@ title: Research Experience
 - Utilized Jekyll and Markdown language to generate blog pages (those two also be used by Github.com)
 - Utilized VS(C#) and MSSQL to build website
 
-###Project on Kaggle.com - Accelerometer Biometric Competition
+###Accelerometer Biometric Competition
+####Project on Kaggle.com  
 #####10/2013 – 12/2013  
 - Introduction: <http://www.kaggle.com/c/accelerometer-biometric-competition> 
 - Utilized Python and Centroid Algorithm  
@@ -33,19 +34,20 @@ title: Research Experience
 ####University of Pittsburgh
 #####11/2013 - 12/2013
 - Team Leader, developed a windows speech application, which is a chess game that users play with it by speech.
-- Utilized VS(VB), Micrsoft Speech API
- 
-###Dynamic Web Development Research - Redesign of Department's Website
-#####12/2011 ~ 05/2012  
-- AIEN Institute of Shanghai Ocean University
-- Programmed a dynamic website for the AIEN Institute of Shanghai Ocean University with the use of Dreamweaver, ASP, and JavaScript
+- Utilized VS(VB), Micrsoft Speech API  
  
 ###Android Application – Course Project of Interactive System Design
 ####University of Pittsburgh
 #####10/2013 - 11/2013
 - Team Leader, developed an App that connects Android to PC to make phone controls PC’s mouse and keyboard
-- Utilized Android SDK, Eclipse, VS(C++), Socket(communication network between PC and Android)
+- Utilized Android SDK, Eclipse, VS(C++), Socket(communication network between PC and Android)  
  
+###Dynamic Web Development Research - Redesign of Department's Website  
+####Shanghai Ocean University
+#####12/2011 ~ 05/2012  
+- AIEN Institute of Shanghai Ocean University  
+- Programmed a dynamic website for the AIEN Institute of Shanghai Ocean University with the use of Dreamweaver, ASP, and JavaScript  
+
 ###Student Information Management System Application Development
 ####Shanghai Ocean University
 #####09/2010 - 03/2011 
