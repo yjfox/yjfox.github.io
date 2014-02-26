@@ -3,7 +3,7 @@ layout: default
 title: Research Experience
 ---
 
-<h1> Project Experience </h1>
+<h1> Projects</h1>
 *****************
 
 ###[Steel City CodeFest 2014](http://steelcitycodefest.com/photos)
