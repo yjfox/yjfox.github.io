@@ -13,6 +13,7 @@ title: Research Experience
 - This competition is sponsored by Google, Univ. of Pitt, CMU and etc. 
 - Our team of 4 developed an Andorid APP which contributed on the [Planned Parenthood of Western PA's (PPWP) Peer Helpers program]<http://www.plannedparenthood.org/western-pennsylvania/>
 - Utilized Java servlet, Vector Space Model, jython(python in Java), MySQL
+- <http://steelcitycodefest.com/photos>
 
 ###Internship at Lenovo (Main Responsibility: Programming)  
 ####Lenovo, Shanghai Branch  
