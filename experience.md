@@ -6,12 +6,12 @@ title: Research Experience
 <h1> Experience </h1>
 *****************
 
-###[Steel City CodeFest 2014]<http://steelcitycodefest.com/photos>
+###[Steel City CodeFest 2014](http://steelcitycodefest.com/photos)
 ####Pittsburgh
 #####02/2014 
 - The Steel City Codefest is a city-wide app building event that brings together coders, designers, and innovation enthusiasts to create apps for local government, citizens, and community organizations over a 24-hour period.
 - This competition is sponsored by Google, Univ. of Pitt, CMU and etc. 
-- Our team of 4 developed an Andorid APP which contributed on the [Planned Parenthood of Western PA's (PPWP) Peer Helpers program]<http://www.plannedparenthood.org/western-pennsylvania/>
+- Our team of 4 developed an Andorid APP which contributed on the [Planned Parenthood of Western PA's (PPWP) Peer Helpers program](http://www.plannedparenthood.org/western-pennsylvania/)
 - Utilized Java servlet, Vector Space Model, jython(python in Java), MySQL
 - <http://steelcitycodefest.com/photos>
 
