@@ -6,6 +6,24 @@ title: Research Experience
 <h1> Projects</h1>
 *****************
 
+###RDF to Neo4j - Course Project of Advanced Database System
+####University of Pittsburgh
+#####04/2014  
+- Coordinator(Team Leader), we have 12 team members.
+- Function: Converting RDF into Neo4j; Searching the shortest path of given two nodes in Neo4j  
+- Utilized Java, Python, RDF, Neo4j
+- [Open Source](https://code.google.com/p/advanced-database-final-group3-graph-data/)  
+
+###CarsFinder - Course Project of Adaptive Information System
+####University of Pittsburgh
+#####04/2014
+- A website gives users Used Cars Recommendations. Our team of four implement own crawler to grab basic data from the Internet 
+- Implement Collaborative Recommendation, Content-based Recommendation and Item-based Recommendation
+- Embed Stanford Semantic Analytics package, which used for analysis of related car Twitter posts
+- Personally responsible for the Standford Semantic Analytics and Collaborative Recommendation  
+- Utilized Java, MySQL, Stanford Semantic Analytics, Twitter API  
+- [Open Source](https://code.google.com/p/is2480-adaptive-final-project-cars-recommdation/)
+
 ###[Steel City CodeFest 2014](http://steelcitycodefest.com/photos)
 ####Pittsburgh
 #####02/2014 
