@@ -15,6 +15,17 @@ title: Research Experience
 - Utilized Java servlet, Vector Space Model, jython(python in Java), MySQL
 - <http://yjfox.github.io/2014/02/24/codefest.html>  
 
+###Col*Fusion - Research Project with Prof. Zadorozhny
+####University of Pittsburgh
+#####09/2013 – 12/2013
+- Group leader, we have five groups with different responsibilities, every group has 3-4 students
+- Mainly responsible for data provenance, Restful Servlet between PHP and JAVA, and data visualization
+- Utilized PHP, JAVA, J2EE, JavaScript, JQuery, MySQL, MSSQL, Neo4j
+- Please visit our website for further information:
+<http://colfusion.exp.sis.pitt.edu/colfusion/wiki/index.php/Main_Page>
+- or watch our Introduction Video:
+<http://colfusion.exp.sis.pitt.edu/colfusion/wiki/images/4/4b/ColFusionFirst_h264_vlc_secondtry.ogg>
+
 ###RDF to Neo4j - Course Project of Advanced Database System
 ####University of Pittsburgh
 #####01/2014 - 04/2014  
@@ -33,16 +44,6 @@ title: Research Experience
 - Utilized Java, MySQL, Stanford Semantic Analytics, Twitter API  
 - [Open Source](https://code.google.com/p/is2480-adaptive-final-project-cars-recommdation/)
 
-###Col*Fusion - Research Project with Prof. Zadorozhny
-####University of Pittsburgh
-#####09/2013 – 12/2013
-- Group leader, we have five groups with different responsibilities, every group has 3-4 students
-- Mainly responsible for data provenance, Restful Servlet between PHP and JAVA, and data visualization
-- Utilized PHP, JAVA, J2EE, JavaScript, JQuery, MySQL, MSSQL, Neo4j
-- Please visit our website for further information:
-<http://colfusion.exp.sis.pitt.edu/colfusion/wiki/index.php/Main_Page>
-- or watch our Introduction Video:
-<http://colfusion.exp.sis.pitt.edu/colfusion/wiki/images/4/4b/ColFusionFirst_h264_vlc_secondtry.ogg>
 
 ###Blog Generator – Course Project of Web Technology & Standards
 ####University of Pittsburgh
