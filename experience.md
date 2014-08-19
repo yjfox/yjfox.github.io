@@ -30,7 +30,7 @@ Our team of 4 were from different companies and never met before, and then spent
 - Utilized Java servlet, Vector Space Model, jython(python in Java), MySQL
 - <http://yjfox.github.io/2014/02/24/codefest.html>
 
-###Internship at Lenovo (Main Responsibility: Programming)  
+###Internship at Lenovo 
 ####Lenovo, Shanghai Branch  
 #####03/2013 ~ 07/2013  
 - Personally developed a plug-in program that significantly improves the efficiency of the interior Mobile App Verification system, which was awarded by Department Leader    
