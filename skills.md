@@ -6,7 +6,7 @@ title: Research Experience
 <h1> Skills </h1>
 *****************
 ###Languages**  
-- C, C++, C#, Java, python, JavaScript, JQuery, PHP, ASP, XML, HTML, MySQL, MSSQL, Oracle, Neo4j, MongoDB, Markdown
+- C, C++, C#, Java, python, JavaScript, JQuery, PHP, ASP, XML, HTML, MySQL, MSSQL, Oracle, Neo4j, MongoDB, Vertica, Markdown
  
  
 ###Programming Tools  
