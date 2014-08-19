@@ -9,7 +9,7 @@ title: Research Experience
 ###[HP Vertica Big Data Conference 2014 Hackathon](http://www.vertica.com/2014/08/12/welcome-to-the-bdc/)
 ####Boston
 #####08/2014 
-- Our team got The [Third]((http://www.vertica.com/2014/08/12/welcome-to-the-bdc/)) in this competition
+- Our team got The [Third](http://www.vertica.com/2014/08/12/welcome-to-the-bdc/) in this competition
 - The Hackathon is designed for intermediate to advanced Vertica users looking to have a fun day working on some really cool stuff. The project is sort of Data Mining.
 Our team of 4 were from different companies and never met before, and then spent the entire day working on the Hackathon challenge. 
 - Utilized R, Tableau and Vertica Database to analyse and visualize the data, dig useful information among a big data set.
