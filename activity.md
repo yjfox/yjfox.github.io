@@ -5,6 +5,10 @@ title: Activity
 
 <h1>Activity</h1>
 **************
+###June.2014 - Present
+- <strong>Engineering Intern</strong> of [HP Vertica](http://www.vertica.com) - Boston
+
+
 ###Sep.2013 - Present
 - <strong>Business Manager</strong> of [ISO (International Students Organization)](http://www.ischool.pitt.edu/bsis/about/student-organizations.php) - University of Pittsburgh
 
