@@ -5,9 +5,13 @@ title: Research Experience
 
 <h1> Experience </h1>
 *****************
+###Software Engineer at HP  
+####HP, Pittsburgh  
+#####02/2015 - Present
+
 ###Engineering Intern at [HP Vertica](http://www.vertica.com)  
-####HP Vertica, Boston  
-#####06/2014 ~ Present  
+####HP, Boston  
+#####06/2014 ~ 12/2014  
 - Responsible for Vertica database Enhanced Testing Tracking system upgrade - Adding new features and functions.  
 - Vertica dabase integrating with Hadoop and database transfering between Vertica and Hadoop  
 - python Django, jquery, Javascript, Vertica database, sqlite3  
