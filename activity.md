@@ -5,7 +5,11 @@ title: Activity
 
 <h1>Activity</h1>
 **************
-###June.2014 - Present
+###Feb.2015 - Present
+- <strong>Software Engineer</strong> at HP - Pittsburgh
+
+
+###June.2014 - Des.2014
 - <strong>Engineering Intern</strong> of [HP Vertica](http://www.vertica.com) - Boston
 
 
