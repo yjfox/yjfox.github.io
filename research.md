@@ -5,6 +5,13 @@ title: Research Experience
 
 <h1> Projects</h1>
 *****************
+###News Crawler – personal side project
+#####2015
+- Inspired by my daily technical blogs reading. Develop a program that grab news from my
+interest websites, open sourced on my GitHub.
+- To Do in future: Improve the scalability and implement it on bigger cluster. Make it more generic
+so it can grab more news from various sources, and integrate with Storm and HDFS if needed.
+- ava Restful, Spring, Redis.
 
 ###[HP Vertica Big Data Conference 2014 Hackathon](http://www.vertica.com/2014/08/12/welcome-to-the-bdc/)
 ####Boston
