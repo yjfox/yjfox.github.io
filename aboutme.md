@@ -24,5 +24,5 @@ title: Research Experience
 - First prize of University Students Financial Planning Competition in Shanghai
  
 ###Contact Me  
-- Email: <juy24@pitt.edu>, <yjfoxer@gmail.com>
-- Phone: 412-608-7704 ( Prefer Text )
+- Email: <yjfoxer@gmail.com>
+
